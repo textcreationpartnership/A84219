@@ -1,0 +1,175 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An exact relation of the whole proceedings of gallant Col. Mitton in North-Wales, as is assured under the hands of severall commanders of note. The besieging of Carnarvin, Denbigh, Flint, and Holt Castles: and propositions of conditions for the surrendring of Anglesey Island; with an account of those garisons not yet besieged. Also, a narration of the perticular of a letter from Plymouth, of the state of Pendennis, and the surrender of Salcumb, called Charles-fort, to Colo. Welden, by Sir Edward Fortescue.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84219</idno>
+            <idno type="STC">Wing E3700</idno>
+            <idno type="STC">Thomason E340_1</idno>
+            <idno type="STC">ESTC R200864</idno>
+            <idno type="EEBO-CITATION">99861490</idno>
+            <idno type="PROQUEST">99861490</idno>
+            <idno type="VID">159730</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84219)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159730)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 55:E340[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An exact relation of the whole proceedings of gallant Col. Mitton in North-Wales, as is assured under the hands of severall commanders of note. The besieging of Carnarvin, Denbigh, Flint, and Holt Castles: and propositions of conditions for the surrendring of Anglesey Island; with an account of those garisons not yet besieged. Also, a narration of the perticular of a letter from Plymouth, of the state of Pendennis, and the surrender of Salcumb, called Charles-fort, to Colo. Welden, by Sir Edward Fortescue.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Laurence Chapman.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1646]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publication date from Wing.</note>
+                  <note>Annotation on Thomason copy: "June 5th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Milton, Thomas, 1597?-1656 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649. --  Campaigns --  Early works to 1800.</term>
+               <term>Wales, North --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Jayne Henley</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Jayne Henley</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159730:1" rendition="simple:additions"/>
+            <p>AN EXACT RELATION OF The whole Proceedings of Gallant Col. <hi>Mitton</hi> in North-<hi>Wales,</hi> as is aſſured under the hands of ſeverall Commanders of Note.</p>
+            <p>The beſieging of <hi>Carnarvin, Denbigh, Flint,</hi> and <hi>Holt</hi> Caſtles: And Propoſitions of Conditions for the ſurrendring of <hi>Angleſey</hi> Iſland; with an account of thoſe Gariſons not yet beſieged.</p>
+            <p>ALSO, A Narration of the perticualar of a Letter from <hi>Plymouth,</hi> of the ſtate of <hi>Pendennis,</hi> and the ſurrender of <hi>Sal<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>umb,</hi> called <hi>Charles-fort,</hi> to Colo. <hi>Welden,</hi> by Sir <hi>EDWARD FORTESC<g ref="char:V">Ʋ</g>E.</hi>
+            </p>
+            <p>
+               <hi>LONDON</hi> Printed for <hi>Laurence Chapman.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:159730:2"/>
+            <pb n="3" facs="tcp:159730:2"/>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>SIR;</salute>
+                  </opener>
+                  <p>
+                     <seg rend="decorInit">W</seg>E received yours bearing date the twenty ſixth of this inſtant, wee returne you and Maſter <hi>Lloyd</hi> hearty thankes for your care and paines for us, the Letter you ſpeak of ſent <hi>per</hi> Major <hi>Elliot,</hi> we feare is miſcarried, for wee heare not of it, wee are glad of your hopes of money, wherein if you and wee are diſappointed, it will indanger not only our own Brigade, but alſo the whole worke of North-Wales, that now through Gods bleſſing upon the active and vigilant endeavours of our Ge<g ref="char:EOLhyphen"/>nerall, and the Forces under his command is re<g ref="char:EOLhyphen"/>duced into a very hopefull condition. We have cloſely beſieged <hi>Holt</hi> Caſtle, <hi>Denbigh, Carnarvan</hi> and <hi>Flynt,</hi> all places of exceeding great ſtrength, our Forces are ſo many, that all the Countries under our command, can hardly afford us pro<g ref="char:EOLhyphen"/>viſion; we are put to uſe our utmoſt skill to get maintenance this way, then you may judge how hard it is with us for want of pay, with<g ref="char:EOLhyphen"/>out
+<pb n="4" facs="tcp:159730:3"/>which our Souldiers will not continue pati<g ref="char:EOLhyphen"/>ently to goe on in their hard and difficult duty that hitherto they have undergone, harder then which we dare boldly ſay, hath not been in any place ſince theſe Wars, and beſides many of our Souldiers with us are auxiliaries from <hi>Lancaſhire,</hi> who are moſt unreaſonable men if they are diſ<g ref="char:EOLhyphen"/>appointed of their pay, of which they have had many promiſes from our hopes of the <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oool<g ref="char:punc">▪</g> or<g ref="char:EOLhyphen"/>dained for that ſervice, wee ſee by Your Letter ſo much ſence of our condition in you, that wee need not pres you to more then confidently we may expect you will endeavour to act for us, we pray you to haſten away the ammunition, and let us weekly heare from you by <hi>Cheſter</hi> Poſt, and we having taken care of conveyance of our Let<g ref="char:EOLhyphen"/>ters from and to that place, ſo that we ſhall keep conſtant correſpondence with you.</p>
+                  <p>For newes, We acquaint you above with the ſeverall ſiedges wee are ingaged upon, each of them hath enforced much care and reſolution, being all places of very great ſtrength, well man<g ref="char:EOLhyphen"/>ned and victualled, they have made many ſallies, but ever all of them repulſed with loſſe, eſpeci<g ref="char:EOLhyphen"/>ally <hi>Carnarvan,</hi> which ſiedge was layd waſt, and is managed by our Generall himſelfe, the Com<g ref="char:EOLhyphen"/>mander
+<pb n="5" facs="tcp:159730:3"/>in chiefe, each ſiedges have made works ſuitable to the condition of the places, our hopes muſt bee of ſtarving, not ſtorming any of them, <hi>De<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>bigh</hi> wee laid ſiedge too ſoone as wee took <hi>Ruthin,</hi> which now is 6. weekes ſince, its Governour is a verie wilfull man, he hath verie nigh five hundred able fighting men in it, it hath in its ſituation all the advantages for ſtrength that any Caſtle can have, there are many Gentrie in it, and ſome riches in it, but it would do well, that as they are notoriouſly refrectorie, ſo they may bee made notoriouſly exemplary, by the Iuſtice of the Parliament upon them and their eſtates according to their demerits, the Countries have improved their intereſts and many other wayes have bin uſed, but all inef<g ref="char:EOLhyphen"/>fectuall, their hearts are as hard as the very foun<g ref="char:EOLhyphen"/>dation of the Caſtle it ſelfe, being an unpierce<g ref="char:EOLhyphen"/>able rock: there are Mounts raiſed round about it, and approaches for battering of a Tower cal<g ref="char:EOLhyphen"/>led the <hi>Goblings</hi> Tower: hoping thereby to de<g ref="char:EOLhyphen"/>prive them of the benefit of a Well in that Tower which can we attaine, we may then ſoone expect the Caſtle through want of water, they having but one well more which is uſual<g ref="char:EOLhyphen"/>ly as it is reported dry in <hi>Iune</hi> or <hi>Iuly</hi> every ſum<g ref="char:EOLhyphen"/>mer.
+<pb n="6" facs="tcp:159730:4"/>
+                     <hi>Carnarvan,</hi> that ſiedge the Generall himſelfel ay although with exceeding difficulty, the enemy (if not full as many, yet very nigh and as good men as <hi>England</hi> hath any) had as many men as the Generall, yet notwithſtanding he at his firſt aproach to the town, beat in the enemy from their Ambuſhes that they had laine, as alſo out of the Suburbs, and from a Rock of very great concernment without any conſiderable loſſe at all, the Enemie made ſince that ſidge which hath bin now very nigh one month, two deſpe<g ref="char:EOLhyphen"/>perate ſallies, at the firſt they loſt ſlaine and ta<g ref="char:EOLhyphen"/>ken priſoners ſeven or eight, and we but one ſhoots at the ſecond, 17. whereof one taken, a Lieutenant, and one or two Lieutenants and foure more, our Lieutenant Generall was in danger at the ſallie, had not the Countrie appea<g ref="char:EOLhyphen"/>red cordially &amp; that generally the ſige cold never continued thus long, Mr. <hi>Glyn</hi> M. <hi>Recorder</hi> his brother, <hi>Bart. Williams</hi> and ſome others are much aſsiſting, they have formerly gotten in re<g ref="char:EOLhyphen"/>liefe by Sea, but we have gotten ſo many Boats and Ships, that we hope they now diſpaire of a<g ref="char:EOLhyphen"/>ny more reliefe that way, they are in great want of water, this day the Generall gives them a ſe<g ref="char:EOLhyphen"/>cond ſummons, God grant it may take effect.</p>
+                  <pb n="7" facs="tcp:159730:4"/>
+                  <p>Yeſterday went Commiſsioners Col. <hi>Roger Pope,</hi> Col. <hi>Iohn Iones,</hi> and <hi>Edwards</hi> Eſquier to <hi>Ang<g ref="char:EOLhyphen"/>leſey</hi> with Propoſitions from our Generall for the ſurrender of that Iland to him for the Parlia<g ref="char:EOLhyphen"/>ment, he formerly had ſummoned it, and after two or three weeks conſideration, they deſired to treate either by Commiſsioners or propoſitions, the Generall therefore ſent both, we heare ſince that they have turned out all ſtrangers, and refuſe to afford any reliefe to <hi>Carnarvan,</hi> we ex<g ref="char:EOLhyphen"/>pect an Anſwer within few dayes: <hi>Flint</hi> Caſtle two dayes after the ſiedge was layed, 46. of the Enemies horſe broke away, but all come in or are gone to their homes 16 came into us to <hi>Ha<g ref="char:EOLhyphen"/>wardin,</hi> about ten went into <hi>Cheſhire,</hi> and the reſt being Welſhmen are gone to their homes, there is no hold in all Northwales free from a ſiedge, but <hi>Conway, Haclacke,</hi> &amp; <hi>Ruthland Caſtls,</hi> of which alſo you will heare ſomething very ſhortly.</p>
+                  <p>
+                     <hi>Holt</hi> hath bin be ſieged ever ſince the taking of <hi>Cheſter,</hi> it is a very ſtrong place, ſtarving is the only hopefull way that we can uſe againſt that place. Sir, you may perceive wee neither have bin nor are idle, we hope the Lord will con<g ref="char:EOLhyphen"/>tinue to bleſſe our endeavours, for which we begge your prayers, we reſt Sir,</p>
+                  <closer>
+                     <signed>Your aſſured friends and ſervants. <hi>Rich, Price, Tho. Maſon, George Twiſ<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>eton.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <pb n="8" facs="tcp:159730:5"/>
+            <p>By expreſſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> from Weſt is thus certified.</p>
+            <p>Charles Fort (ſometime called Salcombe) is ſurren<g ref="char:EOLhyphen"/>dred to us, to the obedience and uſe of the Parliament, which is the only conſiderable place th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t the Enemy now held in all the Weſt parts, except that ſtrong Ga<g ref="char:EOLhyphen"/>riſon of Pendennis Caſtle, they in that garriſon are ve<g ref="char:EOLhyphen"/>ry refractory, and obſtinate, They have hopes of ſome farther deſign in hand, and reſolve to try the u<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>termoſt, they are blockt up cloſe by land and by Sea, they cannot annoy the country, nor get in any thing conſiderable to doe themſelves good, they will ſhortly grow to want of proviſions, and be driven to ſtraits, The Inhabitants of the County of Cornwall, are now turn'd faces about, they have now taſted ſo deepe of the bitter of Warre, that they reliſht peace as ſweeteſt morſell, and moſt deſireable.</p>
+            <p>The Articles given by Col. Welden to Sir Edward Forteſcue the Governour thereof were very faire, in briefe thus, The Governour and the reſt of the gentle<g ref="char:EOLhyphen"/>men to merch a way with their Armes and all thier own goods without moleſtation, to their own dwellings for three Monthes (doing nothing prejuditiall to the Parliament) and if they cannot compound within that time, to have paſſes to goe beyond Sea, <hi>It</hi> was agreed that they ſhould all march out of the Fort with Drums beating, Colours flying, Musket, Pikes, match, pouder, bullet, &amp;c. and after three volleyes to returne, and after<g ref="char:EOLhyphen"/>ward to deliver up the Fort, Ordnance, Armes, and all Ammunition and proviſions to Colonell Welden, or to whom he ſhall appoint, without any diminution, or ſpoyle, all which was performed with divers other par<g ref="char:EOLhyphen"/>ticulars, which I will not trouble you with, this is the ſummonary of all, and may ſuffice for your intelligence and aſſurance that I am</p>
+            <closer>
+               <signed>Yours &amp;c.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
